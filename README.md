@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bademosi Adeleke. E
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learnt Ethical Hacking
+- 🌱 I currently learnt Ethical Hacking
 - 💞️ I’m looking to collaborate in Cyber Security and Grapic design  
 - 📫 How to reach me princeadeleke170@gmail.com
 
